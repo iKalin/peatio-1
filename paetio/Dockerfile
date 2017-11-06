@@ -1,4 +1,4 @@
-# Use an official Python runtime as a parent image
+# Use an official ubuntu runtime as a parent image tatlis
 FROM ubuntu
 
 RUN apt-get update
